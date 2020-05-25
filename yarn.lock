@@ -1944,9 +1944,10 @@
     odata-v4-parser "0.1.13"
     odata-v4-sql "^0.1.2"
 
-"@steedos/steedos-model-generator@^0.5.34":
-  version "0.5.34"
-  resolved "https://registry.yarnpkg.com/@steedos/steedos-model-generator/-/steedos-model-generator-0.5.34.tgz#5ef4dc0fcdfad5d12b4b1befaad055f345d9b25f"
+"@steedos/steedos-model-generator@^1.20.0":
+  version "1.20.0"
+  resolved "https://registry.yarnpkg.com/@steedos/steedos-model-generator/-/steedos-model-generator-1.20.0.tgz#d5a8e0c5b11db1831b2e9b3fdb2e477ac7c2beed"
+  integrity sha512-uyt7KtBcuzn1g2zc7Z0aAx2hijlkR8d1SqW+B/CPEPgsYs8ZpXB1/jKdtb6H+RcApwambGVARGCX7uUVaRErfw==
   dependencies:
     change-case "^3.1.0"
     fs-extra "^7.0.1"
@@ -1954,7 +1955,7 @@
     inquirer "^6.2.2"
     mssql "^4.3.2"
     mysql "^2.16.0"
-    oracledb "^3.1.2"
+    oracledb "^4.2.0"
     pg "^7.8.1"
     reflect-metadata "^0.1.13"
     sqlite3 "^4.0.6"
@@ -2335,8 +2336,9 @@ acorn-walk@^7.0.0:
   resolved "https://registry.yarnpkg.com/acorn-walk/-/acorn-walk-7.0.0.tgz#c8ba6f0f1aac4b0a9e32d1f0af12be769528f36b"
 
 acorn@^5.5.3:
-  version "5.7.3"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
+  integrity sha512-1D++VG7BhrtvQpNbBzovKNc1FLGGEE/oGe7b9xJm/RFHMBeUaUGpluV9RLjZa47YFdPcDAenEYuq9pQPcMdLJg==
 
 acorn@^6.0.1, acorn@^6.0.7:
   version "6.3.0"
@@ -9228,9 +9230,10 @@ optionator@^0.8.1, optionator@^0.8.2:
     type-check "~0.3.2"
     wordwrap "~1.0.0"
 
-oracledb@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/oracledb/-/oracledb-3.1.2.tgz#4d7df7b8eda161d4e645837cd43c530232d139e8"
+oracledb@^4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/oracledb/-/oracledb-4.2.0.tgz#b4d97957d206f7c2d1c2286cc80e91ff2d45fce8"
+  integrity sha512-07ZylNcUB9wknsiRa7dNqDWgGK3loP8eNWuoCjsiCOZ19PA1g8QLu+0gah7ty82VXl/MOQYFCMl5OpjD9Aqjcw==
 
 os-browserify@^0.2.1:
   version "0.2.1"
